@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-My name is Zach, and I want to learn more about programming.
+My first repository! <br>
+My name is Zach and I want to learn more about programming.
